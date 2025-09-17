@@ -34,7 +34,7 @@ A web application designed to help students maintain focus using the Pomodoro Te
 ## 📫 How to Reach Me
 
 - **Email:** raffs.cardoso15@gmail.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/raffscardoso/)
+- **LinkedIn:** [raffscardoso](https://www.linkedin.com/in/raffscardoso/)
 
 ---
 
