@@ -16,9 +16,9 @@ Here are a few projects I've been working on:
 
 A classic Tetris game built entirely in C using the SDL2 library for graphics and input handling. This project was a great way to practice my low-level programming skills.
 
-### 2. Weather App
+### 2. Focus-py
 
-A simple and clean weather application that provides current weather data using the OpenWeatherMap API. This project was a good way to practice my frontend skills and work with external APIs.
+A simple focus application in Python to block specific websites for a certain time.
 
 ## 🛠️ My Skills
 
