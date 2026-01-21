@@ -9,7 +9,7 @@ I'm a Computer Science student with a interest in backend development. My main g
 - My main languages are **Java** and **C**.
 - I use vim by the way.
   
-## 🚀 My Projects
+## My Projects
 
 Here are a few projects I've been working on:
 
@@ -21,17 +21,15 @@ A classic Tetris game built entirely in C using the SDL2 library for graphics an
 
 A command-line chat application built in Java using sockets and multi-thread 
 
-## 🛠️ My Skills
+## Main Skills
 
 - **Languages:** Java, C, JavaScript, HTML, CSS
 - **Libraries & Frameworks:** Angular, SDL2, Spring Boot
 - **Tools:** Git, GitHub, Linux, Vim
 
-## 📫 How to Reach Me
+## How to Reach Me
 
 - **Email:** raffs.cardoso15@gmail.com
 - **LinkedIn:** [raffscardoso](https://www.linkedin.com/in/raffscardoso/)
 
 ---
-
-Thanks for visiting my profile!
