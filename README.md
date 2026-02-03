@@ -1,4 +1,4 @@
-# Hello there, I'm Rafael! 
+# Software Developer | Computer Science Student
 
 I'm a Computer Science student with a interest in backend development. My main goal is to become the better Software Developer I can.
 
